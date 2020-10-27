@@ -26,6 +26,9 @@ After typing a mineral or energy source from the list provided, the program will
 ## Errors/Troubleshooting
 If you are having any issues downloading or running the program, feel free to contact me at odellsh@appstate.edu and I will get back to you asap.
 
+## Contributing
+If you would like to submit information and websites to help code this project further, please feel free to email me at odellsh@appstate.edu and we can discuss further collaborations!
+
 ## FAQ
 Q. How updates are these statistics?
 A. These statistics are collected from multiple public sources and records from 2020, so very recent!
