@@ -10,9 +10,10 @@ The program will first ask for a mineral or energy source you would like to lear
 And this is what the output will look like:
 <img width="548" alt="Screen Shot 2020-10-27 at 11 59 36 AM" src="https://user-images.githubusercontent.com/70115700/97328026-f6f81780-184b-11eb-9403-0fef955b9b4d.png">
 After typing a mineral or energy source from the list provided, the program will print a top 10 list of the countries that use the most of that energy or that harvest the msot of that mineral. The program will also ask for more input, but all you have to do is type 'E' to exit. Here is an example of what the program will look like:
+
 <img width="548" alt="Screen Shot 2020-10-27 at 12 05 07 PM" src="https://user-images.githubusercontent.com/70115700/97328994-f318c500-184c-11eb-99f6-d8a3851e12ae.png">
 
 ## How To Install
-1. First navigate to the 'geology.zip' file located inside this repository.
-2. Second you'll want to click on 'view raw' to download the zip file of this game!
-
+1. First navigate to the 'geologyproject.zip' file located inside this repository.
+2. Second you'll want to click on 'view raw' to download all the file for this game!
+3. Thirdly, you'll want to upload the files to a program runner installed on your computer. I am a Mac user, and use FireZilla! it allows you to easily drag, download, and transfer files from your computer to a machine, and vise-versa.
