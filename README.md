@@ -17,4 +17,5 @@ After typing a mineral or energy source from the list provided, the program will
 1. First navigate to the 'geologyproject.zip' file located inside this repository.
 <img width="612" alt="Screen Shot 2020-10-27 at 12 30 21 PM" src="https://user-images.githubusercontent.com/70115700/97331823-3163b380-1850-11eb-8bd1-27f05c2a652f.png">
 2. Second you'll want to click on 'view raw' to download all the file for this game!
+<img width="825" alt="Screen Shot 2020-10-27 at 12 24 13 PM" src="https://user-images.githubusercontent.com/70115700/97332127-78ea3f80-1850-11eb-88e5-c62a8dab6956.png">
 3. Thirdly, you'll want to upload the files to a program runner installed on your computer. I am a Mac user, and use FireZilla! it allows you to easily drag, download, and transfer files from your computer to a machine, and vise-versa.
