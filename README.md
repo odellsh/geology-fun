@@ -13,4 +13,6 @@ After typing a mineral or energy source from the list provided, the program will
 <img width="548" alt="Screen Shot 2020-10-27 at 12 05 07 PM" src="https://user-images.githubusercontent.com/70115700/97328994-f318c500-184c-11eb-99f6-d8a3851e12ae.png">
 
 ## How To Install
-1. Click the link to install 
+1. First navigate to the 'geology.zip' file located inside this repository.
+2. Second you'll want to click on 'view raw' to download the zip file of this game!
+
