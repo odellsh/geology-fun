@@ -22,6 +22,7 @@ After typing a mineral or energy source from the list provided, the program will
 3. Thirdly, you'll want to upload the files to a program runner installed on your computer.
 <img width="1184" alt="Screen Shot 2020-10-27 at 12 28 09 PM" src="https://user-images.githubusercontent.com/70115700/97332211-93241d80-1850-11eb-8c16-26eb18418596.png">
         Note: I am a Mac user, and use FireZilla! it allows you to easily drag, download, and transfer files from your computer to a machine, and vise-versa.
+
 4. Lastly, just compile and run the game!!
 
 ## Errors/Troubleshooting
